@@ -46,6 +46,10 @@ body {
   width: 556.01px;
   height: 438px;
 }
+.header-item > img:hover{
+  transform: scale(1.2);
+  transition: transform 1.5s ease-in-out;
+}
 
 /* Team Player Styles */
 .container {
